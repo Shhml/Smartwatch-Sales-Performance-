@@ -1,5 +1,4 @@
 # Smartwatch-Sales-Performance
-Smartwatch Sales Performance Dashboard
 
 ## This dashboard shows how well the smartwatch performed in terms of sales and orders in 2023. It compares this year's sales with last year's and the budget. It also shows monthly trends and how sales and orders changed throughout the year.
 
